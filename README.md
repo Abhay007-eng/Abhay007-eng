@@ -2,8 +2,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Bachelor's in Computer Science  
-- 🌍 Aspiring Master's student (CS)  
+- 🎓 Bachelor's in Computer Science   
 - 💻 Love coding, problem-solving, and building real-world apps  
 - 🌱 Currently learning: advanced Python, web development, and AI concepts  
 - ✈️ Open to research, collaboration, and internship opportunities  
